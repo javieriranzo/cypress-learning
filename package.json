@@ -1,0 +1,23 @@
+{
+  "name": "cypress-automation-robot",
+  "version": "1.0.0",
+  "description": "Test automation using the Cypress framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javieriranzo/cypress-automation-robot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javieriranzo/cypress-automation-robot/issues"
+  },
+  "homepage": "https://github.com/javieriranzo/cypress-automation-robot#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
