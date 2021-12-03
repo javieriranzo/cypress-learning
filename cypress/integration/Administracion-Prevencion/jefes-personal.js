@@ -1,5 +1,5 @@
-/// < references types = "Cypress" / >
+/// <reference types = "cypress" />
 
 describe("Maestro - Jefes de personal", function() {
 
-})
+});
