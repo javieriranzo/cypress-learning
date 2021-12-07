@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/javieriranzo/cypress-automation-robot#readme",
   "devDependencies": {
-    "cypress": "^8.6.0"
+    "cypress": "^9.1.1",
+    "cypress-xpath": "^1.6.2"
   }
 }
