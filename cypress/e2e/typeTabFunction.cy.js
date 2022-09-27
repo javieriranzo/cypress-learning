@@ -1,5 +1,7 @@
 /// <reference types="Cypress" />
 
+require('cypress-plugin-tab')
+
 describe("Type tab", function() {
     
     it("Test for type tab function", function() {
