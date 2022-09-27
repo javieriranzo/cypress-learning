@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/javieriranzo/cypress-learning#readme",
   "devDependencies": {
-    "cypress": "^10.8.0"
+    "cypress": "^10.8.0",
+    "cypress-plugin-tab": "^1.0.5"
   }
 }
