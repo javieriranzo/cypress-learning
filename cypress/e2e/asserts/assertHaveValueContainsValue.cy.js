@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe("Asserts Text", function() {
+describe("Asserts Contains", function() {
    
     it("Assert Text - Using have.value function", function() {
         cy.visit("http://automationpractice.com/index.php")
