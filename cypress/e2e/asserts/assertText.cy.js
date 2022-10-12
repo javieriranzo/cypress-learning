@@ -26,11 +26,8 @@ describe("Asserts Text", function() {
             let productPrice = e.text()
             // Delete dollar symbol
             productPrice = productPrice.slice(1,6)
-            /*
             productPrice = parseInt(productPrice)
-            cy.log(productPrice)
-            cy.log(isNaN(productPrice))
-            */
+            cy.log(productPrice < 30 ? "Aviable for shop" : "Not aviable for shop")
         })
     })
     
