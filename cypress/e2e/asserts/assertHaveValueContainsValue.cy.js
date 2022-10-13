@@ -16,7 +16,7 @@ describe("Asserts Contains", function() {
         })
     })
 
-    it.only("Assert Text - Using contains.value function", function() {
+    it("Assert Text - Using contains.value function", function() {
         cy.visit("http://automationpractice.com/index.php")
         cy.title().should('eq', 'My Store')
         cy.get("#header > div.nav > div > div > nav > div.header_user_info > a").should("be.visible").click()
