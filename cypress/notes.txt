@@ -8,3 +8,10 @@
     # node_modules/.bin/cypress run --browser navigatorName --> Run all test in chrome navigator
     # node_modules/.bin/cypress run --spec "testPath"       --> Run test of a specific path
     # node_modules/.bin/cypress run --spec "testPath/*"     --> Run test of a specific path
+
+============================
+== DEPENDENCIES / PLUGINS == 
+============================
+
+    # npm install --save-dev cypress-file-upload            --> Command to install the file upload dependency
+    # npm install --save-dev @4tw/cypress-drag-drop         --> Command to install the plugin to perform drag and drop action

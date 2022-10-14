@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/javieriranzo/cypress-learning#readme",
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^2.2.1",
     "cypress": "^10.8.0",
     "cypress-file-upload": "^5.0.8",
     "cypress-plugin-tab": "^1.0.5",
