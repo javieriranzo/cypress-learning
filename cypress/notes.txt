@@ -1,0 +1,10 @@
+======================
+== CONSOLE COMMANDS ==
+======================
+
+    # node_modules/.bin/cypress open                        --> Run all tests opening Cypress tool
+    # node_modules/.bin/cypress run                         --> Run all tests in console
+    # node_modules/.bin/cypress run --headed                --> Run all test in navigator
+    # node_modules/.bin/cypress run --browser navigatorName --> Run all test in chrome navigator
+    # node_modules/.bin/cypress run --spec "testPath"       --> Run test of a specific path
+    # node_modules/.bin/cypress run --spec "testPath/*"     --> Run test of a specific path
